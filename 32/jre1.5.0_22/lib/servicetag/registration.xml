@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<registration_data version="1.0">
+   <environment>
+      <hostname>DI15-3535ChrisL</hostname>
+      <hostId>000ae500</hostId>
+      <osName>Linux</osName>
+      <osVersion>6.0.0-5-amd64</osVersion>
+      <osArchitecture>i386</osArchitecture>
+      <systemModel>unknown</systemModel>
+      <systemManufacturer>dell inc.</systemManufacturer>
+      <cpuManufacturer>AuthenticAMD</cpuManufacturer>
+      <serialNumber>7r2ln04</serialNumber>
+   </environment>
+   <registry urn="urn:st:cae5598d-3d50-4c58-80bb-cc42299b4c2f" version="1.0">
+      <service_tag>
+         <instance_urn>urn:st:cb88ed36-4416-4d11-a2c9-3894137e8e7a</instance_urn>
+         <product_name>J2SE 5.0 Runtime Environment</product_name>
+         <product_version>1.5.0_22</product_version>
+         <product_urn>urn:uuid:5c6686aa-fd05-46a6-ba3e-700e2d5f7043</product_urn>
+         <product_parent_urn>urn:uuid:f3c20172-557a-11d7-93d0-d6a41ea318df</product_parent_urn>
+         <product_parent>Java 2 Platform, Standard Edition 5.0</product_parent>
+         <product_defined_inst_id>id=1.5.0_22-b03 i386,dir=/home/ce1cecl/J/jre1.5.0_22</product_defined_inst_id>
+         <product_vendor>Sun Microsystems</product_vendor>
+         <platform_arch>i386</platform_arch>
+         <timestamp>2026-11-25 21:23:30 GMT</timestamp>
+         <container>global</container>
+         <source>jre-1_5_0_22-fcs-bin-b03-linux-i586-09_oct_2009.bin</source>
+         <installer_uid>-1</installer_uid>
+      </service_tag>
+   </registry>
+</registration_data>
